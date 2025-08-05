@@ -31,3 +31,20 @@ The purpose was not just to compute values, but to **build a clean, extensible, 
 
 
 ----------------------------------------Thank You for this opportunity -------------------------------------------------
+
+
+# 🎓 Student Record Management System (CLI Java)
+
+## 📌 Description
+A simple Java console-based application to perform CRUD operations on student records using `ArrayList`.
+
+## 💡 Features
+- Add, View, Update, Delete students
+- Sort students by marks
+- Validation to prevent duplicate IDs
+
+## 🛠 Tech Stack
+- Java
+- Console I/O (Scanner)
+- Object-Oriented Design
+- Java Collections (`ArrayList`).....
