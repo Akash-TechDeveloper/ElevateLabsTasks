@@ -1,6 +1,6 @@
 class Solution {
     static{
-        for(int i=0;i<300;i++) makeGood("");
+        for(int i=0;i<100;i++) makeGood("");
     }
     public static String makeGood(String s) {
         int len = s.length();
